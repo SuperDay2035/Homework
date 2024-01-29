@@ -1,0 +1,66 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  outline: none;
+  border: none;
+  font-family: sans-serif;
+  text-decoration: none ;
+
+}
+
+.section1{
+  margin: 0 auto;
+  padding: 2rem 0;
+  width: 1200px;
+
+  display: flex;
+
+  .Download-app{
+    width: 40%;
+
+    .download-img{
+      width: 20rem;
+      img{
+        width: 100%;
+
+      }
+    }
+
+  }
+
+  .Download-sentence{
+    width: 60%;
+    padding: 5rem 0;
+
+    a{
+      background-color: #F3FBF8;
+      color: black;
+      border-radius: 20rem;
+      padding: 1rem;
+
+    }
+
+    h2{
+      margin-top: 1.3rem;
+      font-size: 3.7rem;
+    }
+
+    p{
+      margin-top: 2rem;
+      font-size: 1.7rem;
+    }
+
+    .Markets{
+      margin-top: 2rem;
+
+      img{
+        width: 20rem;
+      }
+    }
+
+  }
+
+
+
+}

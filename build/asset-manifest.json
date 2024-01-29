@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4585a284.css",
+    "main.js": "/static/js/main.ac6d5dcd.js",
+    "static/media/Vegetables.png": "/static/media/Vegetables.bc84c842e52519397257.png",
+    "static/media/Fruits.png": "/static/media/Fruits.3fc1835d0ae09855e0ea.png",
+    "static/media/Balls-For-Assistent.png": "/static/media/Balls-For-Assistent.1086eaa973621bcec9f9.png",
+    "static/media/Download-app.png": "/static/media/Download-app.b56b5fa3cd0fd2a866e8.png",
+    "static/media/leaves.png": "/static/media/leaves.34de64a4ff5dafdf7150.png",
+    "static/media/ManOrder.jpg": "/static/media/ManOrder.9e2dbad1deeb2af5e8f2.jpg",
+    "index.html": "/index.html",
+    "main.4585a284.css.map": "/static/css/main.4585a284.css.map",
+    "main.ac6d5dcd.js.map": "/static/js/main.ac6d5dcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4585a284.css",
+    "static/js/main.ac6d5dcd.js"
+  ]
+}
